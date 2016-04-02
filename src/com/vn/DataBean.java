@@ -5,7 +5,7 @@ public class DataBean {
    private String country;
 
    public String getName() {
-	   System.err.println();
+	   System.err.println(1);
       return name;
    }
    //----------
