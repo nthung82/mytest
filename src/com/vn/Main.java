@@ -12,7 +12,9 @@ import net.sf.jasperreports.engine.data.JRBeanCollectionDataSource;
 
 public class Main {
    @SuppressWarnings("unchecked")
+   
    public static void main(String[] args) {
+      //My test
       String sourceFileName =
          "F://jasper_report_template.jrxml";
       DataBeanList DataBeanList = new DataBeanList();
